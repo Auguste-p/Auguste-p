@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Auguste-p 👋
 
-<!--
-**Auguste-p/Auguste-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer with interests in coding, open-source, and continuous learning. I love building projects, collaborating with others, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Languages: `Python`, `JavaScript`, `TypeScript`, `C++`, `Java`
+- Frameworks: `React`, `Node.js`, `Express`, `Django`
+- Tools: `Git`, `Docker`, `VS Code`, `GitHub Actions`
+- Databases: `PostgreSQL`, `MongoDB`, `SQLite`
+
+## 📈 GitHub Stats
+![Auguste-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auguste-p&show_icons=true&theme=default)
+
+## 🌱 Currently Learning
+- Cloud computing (AWS, Azure)
+- Advanced frontend frameworks (Next.js, Svelte)
+- DevOps best practices
+
+## 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- Email: your.email@example.com
+
+## 📂 Featured Projects
+- [Project One](https://github.com/Auguste-p/project-one): Short description of what it does.
+- [Project Two](https://github.com/Auguste-p/project-two): Another awesome project.
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me. 🚀
